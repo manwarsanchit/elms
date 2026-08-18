@@ -1,0 +1,22 @@
+:root {
+  --bs-primary: #2e7d5b;
+  --bs-primary-rgb: 46, 125, 91;
+}
+
+body {
+  background-color: #f4f7f5;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+}
+
+.navbar-brand {
+  font-size: 1.3rem;
+  letter-spacing: 0.5px;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.table thead {
+  background-color: #eef3f0;
+}
